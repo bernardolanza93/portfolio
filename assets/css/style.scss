@@ -24,12 +24,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-content {
-  flex: 1.5; /* Aumenta la larghezza della colonna principale */
+  flex: 1; /* Occupa il resto dello spazio disponibile */
+  margin-left: 270px; /* Aggiungi margine per evitare sovrapposizione con la sidebar */
   padding: 20px;
-}
-
-.section {
-  margin: 20px 0;
 }
 
 .card {
@@ -39,6 +36,10 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   margin: 10px 0;
   padding: 20px;
+}
+
+.main-content .card {
+  width: calc(100% + 200px); /* Aumenta la larghezza delle card nella colonna principale */
 }
 
 .card img {
