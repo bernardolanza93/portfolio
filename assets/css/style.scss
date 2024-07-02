@@ -13,23 +13,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #333;
 }
 
-.container {
-  display: flex;
-  flex-wrap: nowrap;
-}
-
-.sidebar {
-  flex: 0 0 250px; /* Larghezza fissa per la sidebar */
-  margin-right: 20px;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  overflow-y: auto;
-}
-
 .main-content {
-  flex: 1; /* Occupa il resto dello spazio disponibile */
-  margin-left: 270px; /* Aggiungi margine per evitare sovrapposizione con la sidebar */
+  max-width: 900px;
+  margin: auto;
   padding: 20px;
 }
 
@@ -46,4 +32,3 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 100%;
   border-radius: 5px;
 }
-
