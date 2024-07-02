@@ -124,5 +124,5 @@ Development of a localization system (SLAM) using INTEL RealSense D435 and T265 
   Your browser does not support the video tag.
 </video>
 
-![Animation](animations/project_animation.gif)
+![Animation](animations/Pose-Estimation.gif)
 
