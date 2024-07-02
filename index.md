@@ -7,8 +7,7 @@ layout: default
 
 Developer | Ph.D. student in mechanical and industrial engineering | Deep learning and machine vision for agriculture
 
-<div class="container">
-  <div class="sidebar">
+<div class="main-content">
     <div class="card">
       <h2>Contact Information</h2>
       <p>
@@ -42,9 +41,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
         <li>Bachelor Degree in Industrial Engineering</li>
       </ul>
     </div>
-  </div>
 
-  <div class="main-content">
     <div class="card">
       <h2>Publications</h2>
       <ul>
@@ -98,6 +95,4 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
       <img src="images/project_image.jpg" alt="Project Image">
       <img src="animations/Pose-Estimation.gif" alt="Animation">
     </div>
-  </div>
 </div>
-
