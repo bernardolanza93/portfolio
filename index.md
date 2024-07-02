@@ -113,7 +113,7 @@ Development of a localization system (SLAM) using INTEL RealSense D435 and T265 
 *January 2023 - June 2024*  
 
 <video width="320" height="240" controls autoplay>
-  <source src="videos/prospecto.mp4" type="video/mp4">
+  <source src="videos/scara" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
