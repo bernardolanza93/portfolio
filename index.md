@@ -1,4 +1,6 @@
 ---
+
+
 title: Bernardo Lanza
 layout: default
 ---
