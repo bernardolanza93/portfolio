@@ -19,12 +19,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar {
-  flex: 0 0 300px;
+  flex: 0 0 250px; /* Larghezza fissa per la sidebar */
   margin-right: 20px;
 }
 
-.content {
-  flex: 1;
+.main-content {
+  flex: 1; /* Occupa il resto dello spazio disponibile */
 }
 
 .section {
