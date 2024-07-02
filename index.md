@@ -9,7 +9,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
 
 <div class="main-content">
     <div class="card">
-      <h2>Contact Information</h2>
+      <h3>Contact Information</h3>
       <p>
         <img src="images/photo1634809532 (1).jpeg" alt="Contact" style="width:50px; float:left; margin-right:10px;">
         - Email: <a href="mailto:bernardo.lanza.tech@gmail.com">bernardo.lanza.tech@gmail.com</a><br>
@@ -19,7 +19,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
     </div>
 
     <div class="card">
-      <h2>Key Competencies</h2>
+      <h3>Key Competencies</h3>
       <ul>
         <li>RTK GNSS</li>
         <li>IMU</li>
@@ -28,12 +28,12 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
     </div>
 
     <div class="card">
-      <h2>Languages</h2>
+      <h3>Languages</h3>
       <p>English (Full Professional)</p>
     </div>
 
     <div class="card">
-      <h2>Certifications</h2>
+      <h3>Certifications</h3>
       <ul>
         <li>Master degree in Mechatronic Engineering, electronics and robotics</li>
         <li>ISBS certificate</li>
@@ -43,7 +43,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
     </div>
 
     <div class="card">
-      <h2>Publications</h2>
+      <h3>Publications</h3>
       <ul>
         <li>STEWIE: eSTimating grapE berries number and radius from images using a Weakly supervIsed nEural network</li>
         <li>Gesture recognition for Healthcare 4.0: a machine learning approach to reduce clinical infection risks</li>
@@ -54,7 +54,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
     </div>
 
     <div class="card">
-      <h2>Experience</h2>
+      <h3>Experience</h3>
       <h3>ETSEA - Universitat de Lleida</h3>
       <p><strong>Ph.D International Research Period</strong><br>April 2024 - Present<br>Project focused on integrating low-cost RGB-D cameras with GNSS and IMU data using SLAM to create accurate 3D reconstructions of an apple orchard.</p>
     </div>
