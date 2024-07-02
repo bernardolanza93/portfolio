@@ -57,11 +57,13 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
       <h3>Experience</h3>
       <h3>ETSEA - Universitat de Lleida</h3>
       <p><strong>Ph.D International Research Period</strong><br>April 2024 - Present<br>Project focused on integrating low-cost RGB-D cameras with GNSS and IMU data using SLAM to create accurate 3D reconstructions of an apple orchard.</p>
+      <img src="images/Picture1 (1).png" alt="Aquisition system">
     </div>
 
     <div class="card">
       <h3>MMTLab @ UniBS</h3>
       <p><strong>Ph.D. student</strong><br>January 2022 - Present<br>Collaboration with PROSPECTO to develop optical measurement techniques and data analysis methods for monitoring plant health and estimating production.</p>
+      <img src="images/Picture1.jpg" alt="Aquisition system">
     </div>
 
     <div class="card">
