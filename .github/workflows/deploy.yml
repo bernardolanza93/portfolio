@@ -1,0 +1,25 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Set this to your default branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Pages
+      uses: actions/setup-pages@v1
+
+    - name: Build and Deploy
+      run: |
+        mkdir -p public
+        cp -r * public
+        touch public/.nojekyll
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
