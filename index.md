@@ -60,82 +60,42 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
       <h2>Experience</h2>
       <h3>ETSEA - Universitat de Lleida</h3>
       <p><strong>Ph.D International Research Period</strong><br>April 2024 - Present<br>Project focused on integrating low-cost RGB-D cameras with GNSS and IMU data using SLAM to create accurate 3D reconstructions of an apple orchard.</p>
-      <video width="320" height="240" controls autoplay>
-        <source src="videos/etsea.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
     </div>
 
     <div class="card">
       <h3>MMTLab @ UniBS</h3>
       <p><strong>Ph.D. student</strong><br>January 2022 - Present<br>Collaboration with PROSPECTO to develop optical measurement techniques and data analysis methods for monitoring plant health and estimating production.</p>
-      <video width="320" height="240" controls autoplay>
-        <source src="videos/mmtlab.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
     </div>
 
     <div class="card">
       <h3>Research Fellowship</h3>
       <p>April 2021 - February 2022<br>Development of an embedded vision system using deep neural networks for crop and weed recognition in collaboration with Ferrari Costruzioni Meccaniche.</p>
-      <video width="320" height="240" controls autoplay>
-        <source src="videos/research_fellowship.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
     </div>
 
     <div class="card">
       <h3>University of Brescia</h3>
       <p><strong>Adjunct Professor</strong><br>September 2023 - Present<br>Teaching Vision Systems for Mechatronics.</p>
-      <video width="320" height="240" controls autoplay>
-        <source src="videos/uni_brescia_vision.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
 
       <p><strong>Adjunct Professor</strong><br>September 2021 - Present<br>Teaching Robotics and Measurements - Industrial Measurements Laboratory.</p>
-      <video width="320" height="240" controls autoplay>
-        <source src="videos/uni_brescia_robotica.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
     </div>
 
     <div class="card">
       <h3>University of Trento</h3>
       <p><strong>Physics 1 Lab Tutor</strong><br>October 2019 - April 2021</p>
-      <video width="320" height="240" controls autoplay>
-        <source src="videos/unitn_fisica.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
 
       <p><strong>Master Thesis Project</strong><br>March 2020 - November 2020<br>Development of a localization system (SLAM) using INTEL RealSense D435 and T265 optical sensors.</p>
-      <video width="320" height="240" controls autoplay>
-        <source src="videos/unitn_slam.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
 
       <p><strong>Physics Tutor</strong><br>February 2019 - September 2019</p>
-      <video width="320" height="240" controls autoplay>
-        <source src="videos/unitn_fisica_tutor.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
     </div>
 
     <div class="card">
       <h3>Prospecto Srl</h3>
       <p><strong>Junior Developer</strong><br>January 2023 - June 2024</p>
-      <video width="320" height="240" controls autoplay>
-        <source src="videos/scara.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
     </div>
 
     <div class="card">
       <h2>Media and Projects</h2>
       <img src="images/project_image.jpg" alt="Project Image">
-      <video width="320" height="240" controls autoplay>
-        <source src="videos/project_video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
       <img src="animations/Pose-Estimation.gif" alt="Animation">
     </div>
   </div>
