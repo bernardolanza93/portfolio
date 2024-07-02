@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-content {
-  flex: 1; /* Occupa il resto dello spazio disponibile */
+  flex: 1.5; /* Aumenta la larghezza della colonna principale */
   margin-left: 270px; /* Aggiungi margine per evitare sovrapposizione con la sidebar */
   padding: 20px;
 }
