@@ -1,12 +1,82 @@
-# Benvenuto nel mio sito personale!
+---
+title: Bernardo Lanza
+---
 
-Mi chiamo [Tuo Nome], sono un ingegnere di computer science. Questo è il mio sito personale dove puoi trovare informazioni su di me e sui miei progetti.
+# Bernardo Lanza
 
-## Progetti
+Developer | Ph.D. student in mechanical and industrial engineering | Deep learning and machine vision for agriculture
 
-- [Progetto 1](link_al_progetto_1)
-- [Progetto 2](link_al_progetto_2)
+## Contatti
+- Email: [bernardo.lanza.tech@gmail.com](mailto:bernardo.lanza.tech@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bernardo-lanza-554064163)
+- [Portfolio](https://orcid.org/0009-0005-3561-754X)
 
-## Curriculum Vitae
+## Competenze Principali
+- RTK GNSS
+- IMU
+- SLAM
 
-Puoi scaricare il mio [Curriculum Vitae](link_al_curriculum) in formato PDF.
+## Lingue
+- Inglese (Full Professional)
+
+## Certificazioni
+- Master degree in Mechatronic Engineering, curriculum electronics and robotics
+- ISBS certificate
+- DeepLearn Summer School
+- Bachelor Degree in Industrial Engineering
+
+## Pubblicazioni
+- STEWIE: eSTimating grapE berries number and radius from images using a Weakly supervIsed nEural network
+- Gesture recognition for Healthcare 4.0: a machine learning approach to reduce clinical infection risks
+- Computer vision-based mapping of grapevine vigor variability for enhanced fertilization strategies through intelligent pruning
+- First Step Towards Embedded Vision System for Pruning Wood Estimation
+- Deep learning for gesture recognition in sportive training operation
+
+## Esperienza
+
+### ETSEA - Universitat de Lleida
+**Ph.D International Research Period**  
+*Aprile 2024 - Present*  
+Progetto focalizzato sull'integrazione di telecamere RGB-D a basso costo con dati GNSS e IMU usando SLAM per creare ricostruzioni 3D accurate di un frutteto di mele.  
+[Video del Progetto](videos/etsea.mp4)
+
+### MMTLab @ UniBS
+**Ph.D. student**  
+*Gennaio 2022 - Present*  
+Collaborazione con PROSPECTO per sviluppare tecniche di misurazione ottica e metodi di analisi dei dati per il monitoraggio della salute delle piante e la stima della produzione.  
+[Video del Progetto](videos/mmtlab.mp4)
+
+**Research Fellowship**  
+*Aprile 2021 - Febbraio 2022*  
+Sviluppo di un sistema embedded basato sulla visione, utilizzando reti neurali profonde, per il riconoscimento di colture e infestanti in collaborazione con Ferrari Costruzioni Meccaniche.  
+[Video del Progetto](videos/research_fellowship.mp4)
+
+### Università degli Studi di Brescia
+**Professore a contratto**  
+*Settembre 2023 - Present*  
+Insegnamento di Sistemi di Visione per la Meccatronica.  
+[Video del Progetto](videos/uni_brescia_vision.mp4)
+
+**Professore a contratto**  
+*Settembre 2021 - Present*  
+Insegnamento di Robotica e Misure - Laboratorio di Misure Industriali.  
+[Video del Progetto](videos/uni_brescia_robotica.mp4)
+
+### Università di Trento
+**Tutor laboratorio Fisica 1**  
+*Ottobre 2019 - Aprile 2021*  
+[Video del Progetto](videos/unitn_fisica.mp4)
+
+**Master Thesis Project**  
+*Marzo 2020 - Novembre 2020*  
+Sviluppo di un sistema di localizzazione (SLAM) utilizzando sensori ottici INTEL RealSense D435 e T265.  
+[Video del Progetto](videos/unitn_slam.mp4)
+
+**Tutor di Fisica**  
+*Febbraio 2019 - Settembre 2019*  
+[Video del Progetto](videos/unitn_fisica_tutor.mp4)
+
+### Prospecto Srl
+**Junior Developer**  
+*Gennaio 2023 - Giugno 2024*  
+[Video del Progetto](videos/prospecto.mp4)
