@@ -93,8 +93,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
     </div>
 
     <div class="card">
-      <h2>Media and Projects</h2>
-      <img src="images/project_image.jpg" alt="Project Image">
+      <h3>Media and Projects</h3>
       <img src="animations/Pose-Estimation.gif" alt="Animation">
     </div>
 </div>
