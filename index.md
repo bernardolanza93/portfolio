@@ -1,6 +1,4 @@
 ---
-
-
 title: Bernardo Lanza
 layout: default
 ---
@@ -14,9 +12,9 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
     <h2>Contact Information</h2>
     <p>
       <img src="images/contact.jpg" alt="Contact" style="width:50px; float:left; margin-right:10px;">
-      - Email: [bernardo.lanza.tech@gmail.com](mailto:bernardo.lanza.tech@gmail.com)<br>
-      - [LinkedIn](https://www.linkedin.com/in/bernardo-lanza-554064163)<br>
-      - [Portfolio](https://orcid.org/0009-0005-3561-754X)
+      - Email: <a href="mailto:bernardo.lanza.tech@gmail.com">bernardo.lanza.tech@gmail.com</a><br>
+      - <a href="https://www.linkedin.com/in/bernardo-lanza-554064163">LinkedIn</a><br>
+      - <a href="https://orcid.org/0009-0005-3561-754X">Portfolio</a>
     </p>
   </div>
 
