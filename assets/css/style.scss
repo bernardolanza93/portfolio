@@ -21,10 +21,16 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar {
   flex: 0 0 250px; /* Larghezza fissa per la sidebar */
   margin-right: 20px;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  overflow-y: auto;
 }
 
 .main-content {
   flex: 1; /* Occupa il resto dello spazio disponibile */
+  margin-left: 270px; /* Aggiungi margine per evitare sovrapposizione con la sidebar */
+  padding: 20px;
 }
 
 .section {
@@ -40,8 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 20px;
 }
 
-.card img, .card video {
+.card img {
   max-width: 100%;
   border-radius: 5px;
 }
-
