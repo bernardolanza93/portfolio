@@ -46,16 +46,16 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
     </div>
 
     <div class="card">
-      <h3>Certifications</h3>
-      <ul>
-        <li>Ph.D in Mechanical and industrial engineering: Optical-based measurement for plant monitoring and yield estimation.</li>
-        <li>Master degree in Mechatronic Engineering, electronics and robotics</li>
+      <h2>Certifications</h2>
+      
+        <h3>Ph.D in Mechanical and industrial engineering: Optical-based measurement for plant monitoring and yield estimation.</h3>
+        <h3>Master degree in Mechatronic Engineering, electronics and robotics</h3>
         <img src="images/master.png" alt="Aquisition system">
         <figcaption>M.S. thesis: sensor fusion based localization with Apriltag and odometric data</figcaption>
-        <li>Bachelor Degree in Industrial Engineering</li>
+        <h3>Bachelor Degree in Industrial Engineering</h3>
         <img src="images/trie.png" alt="Aquisition system">
         <figcaption>B.S. thesis: Design and implementation of custom optical encoder vs professional encoders</figcaption>
-        <li>DeepLearn Summer School</li>
+        <h3>DeepLearn Summer School</h3>
 
       </ul>
     </div>
