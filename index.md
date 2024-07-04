@@ -115,7 +115,6 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
       <p>In collaboration with ABHorizon, this project involves developing a vision-based pose estimator for human body and gym gesture recognition.</p>
       <p>Skills: OpenCV, Statistics, TCP/IP, Python, Deep Learning</p>
       <p>Publication: International Society of Biomechanics in Sports</p>
-      <img src="images/pose.png" alt="Mediapipe">   
       <img src="images/isbs.jpg" alt="ISBS Conference">
       <img src="images/ab.jpeg" alt="ISBS Conference">
 
@@ -127,13 +126,13 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
     </div>
     <div class="card">
       <h3>Awards</h3>
-      <p>2023 Best Paper Award at the IEEE International Workshop on Metrology for Industry 4.0 and IoT for the paper "Gesture recognition for Healthcare 4.0: a machine learning approach to reduce clinical infection risks."</p>
-      <img src="images/award.jpeg" alt="Preneural Visual Detector">
-      <img src="images/award2.jpeg" alt="Preneural Visual Detector">
+      <p>2023 Best Poster Award at the IEEE International Workshop on Metrology for Agriculture and Forestry for the poster "FIRST STEP TOWARDS EMBEDDED VISION SYSTEM FOR PRUNING WOOD ESTIMATION."</p>
+      <img src="images/award.jpeg" alt="Conference award">
+      <img src="images/award2.jpeg" alt="Poster">
     </div>
 
     <div class="card">
-      <h3>Media and Projects</h3>
+      <h3>For any inquiries, please contact me!</h3>
       <img src="animations/Pose-Estimation.gif" alt="Animation">
     </div>
 </div>
