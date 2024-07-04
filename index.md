@@ -1,11 +1,14 @@
 ---
-title: Bernardo Lanza
+title: Bernardo Lanza - Developer | Ph.D. student
 layout: default
+description: Bernardo Lanza's portfolio - Developer and Ph.D. student specializing in deep learning and machine vision for agriculture.
+keywords: Bernardo Lanza, developer, Ph.D. student, deep learning, machine vision, agriculture, mechatronics, AI, robotics
 ---
 
 # Portfolio
 
 Developer | Ph.D. student in mechanical and industrial engineering | Deep learning and machine vision for agriculture
+
 
 <div class="main-content">
     <div class="card">
