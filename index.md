@@ -57,7 +57,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
         <figcaption>B.S. thesis: Design and implementation of custom optical encoder vs professional encoders</figcaption>
         <h3>DeepLearn Summer School</h3>
 
-      </ul>
+
     </div>
 
     <div class="card">
