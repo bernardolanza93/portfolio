@@ -73,7 +73,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
       <img src="images/Picture1.jpg" alt="Aquisition system">
       <img src="images/buds.jpg" alt="Neural network for detection and tracking">
       <img src="images/shoots.jpg" alt="Neural network for branch segmentation">
-      <img src="images/cylinder.jpg" alt="Measurments model">
+      <img src="images/cylynder.jpg" alt="Measurments model">
       <img src="images/vines.jpg" alt="Experimental campaign">
     </div>
 
