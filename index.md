@@ -11,7 +11,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
     <div class="card">
       <h3>Contact Information</h3>
       <p>
-        <img src="images/photo1634809532 (1).jpeg" alt="Contact" style="width:200px; float:left; margin-right:10px;">
+        <img src="images/photo1634809532 (1).jpeg" alt="Contact">
         - Email: <a href="mailto:bernardo.lanza.tech@gmail.com">bernardo.lanza.tech@gmail.com</a><br>
         - <a href="https://www.linkedin.com/in/bernardo-lanza-554064163">LinkedIn</a><br>
         - <a href="https://orcid.org/0009-0005-3561-754X">Portfolio</a>
