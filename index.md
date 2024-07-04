@@ -30,16 +30,18 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
 
     <div class="card">
       <h3>Languages</h3>
+      <p>Italian (native speaker)</p>
       <p>English (Full Professional)</p>
     </div>
 
     <div class="card">
       <h3>Certifications</h3>
       <ul>
+        <li>Ph.D in Mechanical and industrial engineering: Optical-based measurement for plant monitoring and yield estimation.</li>
         <li>Master degree in Mechatronic Engineering, electronics and robotics</li>
-        <li>ISBS certificate</li>
-        <li>DeepLearn Summer School</li>
         <li>Bachelor Degree in Industrial Engineering</li>
+        <li>DeepLearn Summer School</li>
+
       </ul>
     </div>
 
@@ -60,7 +62,9 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
       <h3>ETSEA - Universitat de Lleida</h3>
       <p><strong>Ph.D International Research Period</strong><br>April 2024 - Present<br>Project focused on integrating low-cost RGB-D cameras with GNSS and IMU data using SLAM to create accurate 3D reconstructions of an apple orchard.</p>
       <img src="images/Picture1 (1).png" alt="Aquisition system">
-    <img src="animations/111.gif" alt="Animation">
+      <img src="images/ggg.png" alt="3D reconstruction with custom SLAM algorithm">
+      <img src="images/dsc.png" alt="Aquisition scooter">
+
     </div>
 
     <div class="card">
