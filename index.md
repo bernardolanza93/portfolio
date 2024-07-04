@@ -90,7 +90,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
 
 
       <img src="images/buds.jpg" alt="Neural network for detection and tracking">
-      <figcaption>Neural network for detection and tracking</figcaption>
+      <figcaption>Neural network for buds detection and tracking</figcaption>
 
       <img src="images/shoots.jpg" alt="Neural network for branch segmentation">
       <figcaption>Neural network for branch segmentation</figcaption>
@@ -167,10 +167,12 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
     <div class="card">
       <h3>Awards</h3>
       <p>2023 Best Poster Award at the IEEE International Workshop on Metrology for Agriculture and Forestry for the poster "FIRST STEP TOWARDS EMBEDDED VISION SYSTEM FOR PRUNING WOOD ESTIMATION."</p>
-      <img src="images/award.jpeg" alt="Conference award">
-      <figcaption>Conference award</figcaption>
+      <img src="images/award.jpeg" alt="Conference">
+      <figcaption>Conference cerimony</figcaption>
       <img src="images/award2.jpeg" alt="Poster">
       <figcaption>Poster award</figcaption>
+      <img src="images/poster.jpg" alt="Poster">
+      <figcaption>Poster</figcaption>
 
     </div>
 
