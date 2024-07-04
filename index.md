@@ -14,7 +14,8 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
         <img src="images/photo1634809532 (1).jpeg" alt="Contact">
         - Email: <a href="mailto:bernardo.lanza.tech@gmail.com">bernardo.lanza.tech@gmail.com</a><br>
         - <a href="https://www.linkedin.com/in/bernardo-lanza-554064163">LinkedIn</a><br>
-        - <a href="https://orcid.org/0009-0005-3561-754X">Portfolio</a>
+        - <a href="https://scholar.google.it/citations?user=xE5inBMAAAAJ&hl=it">Publications</a><br>
+        - <a href="https://github.com/bernardolanza93">Github</a>
       </p>
     </div>
 
