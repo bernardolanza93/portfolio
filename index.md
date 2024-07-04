@@ -105,7 +105,7 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
 
     <div class="card">
       <h3>Research Fellowship</h3>
-      <p>April 2021 - February 2022<br>Development of an embedded vision system using deep neural networks for crop and weed recognition in collaboration with Ferrari Costruzioni Meccaniche.</p>
+      <p>April 2021 - February 2022<br>Development of an embedded vision system using deep neural networks for crop and weed recognition.</p>
       <img src="animations/cavolo.gif" alt="Intelligent segmentaation">   
       <figcaption>Intelligent segmentation</figcaption>
 
