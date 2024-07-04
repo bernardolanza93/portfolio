@@ -22,6 +22,15 @@ Developer | Ph.D. student in mechanical and industrial engineering | Deep learni
       </p>
     </div>
 
+description: Hey there! I m Bernardo, the tech wizard who turns orchards into high-tech havens using AI and computer vision. Armed with a Ph.D. and a passion for mechatronics, I blend robotics and nature like no other. When I m not revolutionizing agriculture, you can find me diving into history, tinkering with DIY IoT gadgets, or volunteering for community causes. Let’s team up and create the future together!
+
+    <div class="card">
+      <h2>Resume</h2>
+      </p>description: Hey there! I m Bernardo, the tech wizard who turns orchards into high-tech havens using AI and computer vision. Armed with a Ph.D. and a passion for mechatronics, I blend robotics and nature like no other. When I m not revolutionizing agriculture, you can find me diving into history, tinkering with DIY IoT gadgets, or volunteering for community causes. Let’s team up and create the future together!</p>
+      
+
+    </div>
+
     <div class="card">
       <h3>Key Competencies</h3>
       <ul>
