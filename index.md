@@ -3,7 +3,7 @@ title: Bernardo Lanza
 layout: default
 ---
 
-# Bernardo Lanza
+# Portfolio
 
 Developer | Ph.D. student in mechanical and industrial engineering | Deep learning and machine vision for agriculture
 
