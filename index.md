@@ -11,10 +11,10 @@ keywords: Bernardo Lanza, developer, Ph.D. student, deep learning, machine visio
 </body>
 
 
-# Portfolio
-
-Developer | Ph.D. student in mechanical and industrial engineering | Deep learning and machine vision for agriculture
-
+<div style="text-align: right;">
+  <h1>Portfolio</h1>
+  <p>Developer | Ph.D. student in mechanical and industrial engineering | Deep learning and machine vision for agriculture</p>
+</div>
 
 <div class="main-content">
     <div class="card">
