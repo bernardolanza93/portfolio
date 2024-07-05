@@ -8,6 +8,16 @@
     <meta name="keywords" content="{{ page.keywords }}">
     <meta name="author" content="Bernardo Lanza">
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-41W6WG8S5M"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-41W6WG8S5M');
+    </script>
+
 </head>
 <body>
     <header>
@@ -17,7 +27,7 @@
         {{ content }}
     </main>
     <footer>
-        <p>&copy; {{ site.time | date: "%Y" }} Bernardo Lanza - Free software is a matter of liberty, not price. To understand the concept, you should think of 'free' as in 'free speech,' not as in 'free beer.'</p>
+        <p>&copy; {{ site.time | date: "%Y" }} Bernardo Lanza </p>
     </footer>
 </body>
 </html>
