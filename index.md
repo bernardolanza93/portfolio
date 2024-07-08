@@ -135,7 +135,7 @@ theme: jekyll-theme-minimal
       <figcaption>M.S. thesis: sensor fusion based localization with Apriltag and odometric data</figcaption>
       
       <p><strong>Physics - Mechanics Lab Tutor</strong><br>October 2019 - April 2021</p>
-      <p><strong>Physics Tutor (Cinematics, Dynamics  and Electro Magnetism) </strong><br>February 2019 - September 2019</p>
+      <p><strong>Physics Tutor (Cinematics, Dynamics, and Electromagnetism) </strong><br>February 2019 - September 2019</p>
       <h3>Bachelor Degree in Industrial Engineering</h3>
       <img src="images/trie.png" alt="Aquisition system">
       <figcaption>B.S. thesis: Design and implementation of custom optical encoder vs professional encoders</figcaption>
