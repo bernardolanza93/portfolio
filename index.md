@@ -57,12 +57,7 @@ theme: jekyll-theme-minimal
       <h2>Certifications</h2>
       
         <h3>Ph.D in Mechanical and industrial engineering: Optical-based measurement for plant monitoring and yield estimation.</h3>
-        <h3>Master degree in Mechatronic Engineering, electronics and robotics</h3>
-        <img src="images/master.png" alt="Aquisition system">
-        <figcaption>M.S. thesis: sensor fusion based localization with Apriltag and odometric data</figcaption>
-        <h3>Bachelor Degree in Industrial Engineering</h3>
-        <img src="images/trie.png" alt="Aquisition system">
-        <figcaption>B.S. thesis: Design and implementation of custom optical encoder vs professional encoders</figcaption>
+        
         <h3>DeepLearn Summer School</h3>
 
 
@@ -132,11 +127,22 @@ theme: jekyll-theme-minimal
 
     <div class="card">
       <h3>University of Trento</h3>
-      <p><strong>Physics 1 Lab Tutor</strong><br>October 2019 - April 2021</p>
+      
 
       <p><strong>Master Thesis Project</strong><br>March 2020 - November 2020<br>Development of a localization system (SLAM) using INTEL RealSense D435 and T265 optical sensors.</p>
+      <h3>Master degree in Mechatronic Engineering, electronics and robotics</h3>
+      <img src="images/master.png" alt="Aquisition system">
+      <figcaption>M.S. thesis: sensor fusion based localization with Apriltag and odometric data</figcaption>
+      
+      <p><strong>Physics - Mechanics Lab Tutor</strong><br>October 2019 - April 2021</p>
+      <p><strong>Physics Tutor (Cinematics, Dynamics  and Electro Magnetism) </strong><br>February 2019 - September 2019</p>
+      <h3>Bachelor Degree in Industrial Engineering</h3>
+      <img src="images/trie.png" alt="Aquisition system">
+      <figcaption>B.S. thesis: Design and implementation of custom optical encoder vs professional encoders</figcaption>
 
-      <p><strong>Physics Tutor</strong><br>February 2019 - September 2019</p>
+
+
+      
     </div>
 
     <div class="card">
