@@ -20,7 +20,7 @@ theme: jekyll-theme-minimal
 <div class="main-content">
     <div class="card">
       <h3>Contact Information</h3>
-      <img src="images/ben.jpeg" alt="Contact style="width:50px; float:left; margin-right:10px;">
+      <img src="images/ben.jpeg" alt="Contact" style="width:50px; float:left; margin-right:10px;">
 
       <p>
         - Email: <a href="mailto:bernardo.lanza.tech@gmail.com">bernardo.lanza.tech@gmail.com</a><br>
@@ -147,7 +147,7 @@ theme: jekyll-theme-minimal
 
     <div class="card">
       <h3>Prospecto Srl</h3>
-      <p><strong>Junior Developer</strong><br>January 2023 - June 2024</p>
+      <p><strong>Junior Developer</strong><br>January 2023 - January 2024</p>
     </div>
 
     <div class="card">
