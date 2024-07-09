@@ -86,7 +86,7 @@ theme: jekyll-theme-minimal
         <li>...</li>
 
 
-        - <a href="https://scholar.google.it/citations?user=xE5inBMAAAAJ&hl=it">Other Publications</a><br>
+        <li> <a href="https://scholar.google.it/citations?user=xE5inBMAAAAJ&hl=it">Other Publications</a><br> </li>
 
         
       </ul>
