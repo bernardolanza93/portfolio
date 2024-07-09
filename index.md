@@ -111,6 +111,9 @@ theme: jekyll-theme-minimal
 
       <img src="images/vines.jpg" alt="Experimental campaign">
       <figcaption>Experimental campaign</figcaption>
+      <img src="animations/buds_video.gif" alt="Animation">
+      <figcaption>Real-time DETECTION, TRACKING AND COUNTING</figcaption>
+
 
     </div>
 
