@@ -97,49 +97,34 @@ theme: jekyll-theme-minimal
       <h3>MMTLab @ UniBS</h3>
       <p><strong>Ph.D. student</strong><br>January 2022 - Present<br>Collaboration with PROSPECTO to develop optical measurement techniques and data analysis methods for monitoring plant health and estimating production.</p>
       
-      <div class="image-gallery">
-        <div class="image-item">
-          <img src="images/Picture1.jpg" alt="Aquisition system">
-          <figcaption>Aquisition system</figcaption>
-        </div>
-        <div class="image-item">
-          <img src="images/buds.jpg" alt="Neural network for detection and tracking">
-          <figcaption>Neural network for buds detection and tracking</figcaption>
-        </div>
-        <div class="image-item">
-          <img src="images/shoots.jpg" alt="Neural network for branch segmentation">
-          <figcaption>Neural network for branch segmentation</figcaption>
-        </div>
-        <div class="image-item">
-          <img src="images/cylynder.jpg" alt="Measurments model">
-          <figcaption>Measurments model: series of varying diameter cylinder</figcaption>
-        </div>
-        <div class="image-item">
-          <img src="images/vines.jpg" alt="Experimental campaign">
-          <figcaption>Experimental campaign</figcaption>
-        </div>
-        <div class="image-item">
-          <img src="animations/buds_video.gif" alt="Animation">
-          <figcaption>Real-time DETECTION, TRACKING AND COUNTING</figcaption>
-        </div>
-
-
-        <div class="image-item">
-          <img src="images/3dwood.jpeg" alt="Animation">
-          <figcaption>3D estimation of branch</figcaption>
-        </div>   
-        <div class="image-item">
-          <img src="images/graph_volume.jpeg" alt="Animation">
-          <figcaption>Results of volume estimation</figcaption>
-        </div>    
-        <div class="image-item">
-          <img src="images/flow.png" alt="flow">
-          <figcaption> Processing pipeline </figcaption>
-        </div>
-
-
-      </div>
+      <img src="images/Picture1.jpg" alt="Aquisition system">
+      <figcaption>Aquisition system</figcaption>
+    
+      <img src="images/buds.jpg" alt="Neural network for detection and tracking">
+      <figcaption>Neural network for buds detection and tracking</figcaption>
+    
+      <img src="images/shoots.jpg" alt="Neural network for branch segmentation">
+      <figcaption>Neural network for branch segmentation</figcaption>
+    
+      <img src="images/cylynder.jpg" alt="Measurments model">
+      <figcaption>Measurments model: series of varying diameter cylinder</figcaption>
+    
+      <img src="images/vines.jpg" alt="Experimental campaign">
+      <figcaption>Experimental campaign</figcaption>
+    
+      <img src="animations/buds_video.gif" alt="Animation">
+      <figcaption>Real-time DETECTION, TRACKING AND COUNTING</figcaption>
+    
+      <img src="images/3dwood.jpeg" alt="Animation">
+      <figcaption>3D estimation of branch</figcaption>
+    
+      <img src="images/graph_volume.jpeg" alt="Animation">
+      <figcaption>Results of volume estimation</figcaption>
+    
+      <img src="images/flow.png" alt="flow">
+      <figcaption>Processing pipeline</figcaption>
     </div>
+
 
     <div class="card">
       <h3>Research Fellowship</h3>
