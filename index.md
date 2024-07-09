@@ -100,7 +100,7 @@ theme: jekyll-theme-minimal
       <p><strong>Ph.D. student</strong><br>January 2022 - Present<br>Collaboration with PROSPECTO to develop optical measurement techniques and data analysis methods for monitoring plant health and estimating production.</p>
       
       <img src="images/Picture1.jpg" alt="Aquisition system">
-      <figcaption>Aquisition system</figcaption>
+      <figcaption>Aquisition system: A) Intel RealSense D435i. B) Intel RealSense T265 VO. C) Basler RGB DART camera (model daA2500-14uc) D) Nvidia Jetson Nano </figcaption>
     
       <img src="images/buds.jpg" alt="Neural network for detection and tracking">
       <figcaption>Neural network for buds detection and tracking</figcaption>
