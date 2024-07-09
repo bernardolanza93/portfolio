@@ -116,7 +116,39 @@ theme: jekyll-theme-minimal
       <img src="animations/cavolo.gif" alt="Intelligent segmentaation">   
       <figcaption>Intelligent segmentation</figcaption>
 
-     </div>
+    </div>
+    <div class="card">
+      <h3>Projects</h3>
+      <h4>Gesture Recognition for Healthcare 4.0</h4>
+      <p><strong>September 2022 - June 2023</strong><br>Associated with MMTLab @ UniBS</p>
+      <p>Gesture recognition for Healthcare 4.0: a machine learning approach to reduce clinical infection risks. In collaboration with Idea-Re S.r.l., we created a vision-based system to detect hands and recognize gestures for monitoring surgical handwashing procedures, essential for infection control. We also deployed machine learning algorithms to analyze the data collected by the system.</p>
+      <p>Skills: Machine learning, Python, Biomechanics, Deep Learning</p>
+      <p>Publication: 2023 IEEE International Workshop on Metrology for Industry 4.0 and IoT</p>
+      <img src="images/hand.jpeg" alt="Hand Pose">  
+      <figcaption>Hand Pose</figcaption>
+
+      <img src="images/han.jpg" alt="Mediapipe">   
+      <figcaption>Mediapipe</figcaption>
+
+      
+      <h4>Vision System for Body and Gym Gesture Recognition</h4>
+      <p><strong>April 2021 - April 2022</strong><br>Associated with MMTLab @ UniBS</p>
+      <p>In collaboration with ABHorizon, this project involves developing a vision-based pose estimator for human body and gym gesture recognition.</p>
+      <p>Skills: OpenCV, Statistics, TCP/IP, Python, Deep Learning</p>
+      <p>Publication: International Society of Biomechanics in Sports</p>
+      <img src="images/isbs.jpg" alt="ISBS Conference">
+      <figcaption>ISBS Conference</figcaption>
+
+      <img src="images/ab.jpeg" alt="Smart mirror">
+      <figcaption>Smart mirror</figcaption>
+
+      <h4>Vision Embedded System for Crop and Weed Recognition</h4>
+      <p><strong>August 2021 - February 2022</strong><br>Associated with MMTLab @ UniBS</p>
+      <p>In collaboration with Ferrari Costruzioni Meccaniche, we're developing a vision-based embedded system, utilizing deep neural networks, for crop and weed recognition.</p>
+      <p>Skills: Embedded Linux, Python, Computer Vision, Engineering, Research & Development</p>
+      <img src="images/cvweed.jpeg" alt="Preneural Visual Detector">
+      <figcaption>Preneural Visual Detector</figcaption>
+    </div>
 
     <div class="card">
       <h3>University of Brescia</h3>
