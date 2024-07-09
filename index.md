@@ -160,7 +160,7 @@ theme: jekyll-theme-minimal
 
       <p><strong>Adjunct Professor</strong><br>September 2021 - Present<br>Teaching Robotics and Measurements - Industrial Measurements Laboratory.</p>
       <p><strong>Lecturer</strong><br>November 2023 <br>  “Probabilistic Sensor Fusion: From Naïve Bayes to Kalman Filters: Lab. of Mechanical and Thermal Measurements</p>
-      <p><strong> Didactics Design, Matlab, Predictive Maintenance, Statistics, Modal Analysis, Metrology, Autonomous Navigation</p>
+      <p>Didactics Design, Matlab, Predictive Maintenance, Statistics, Modal Analysis, Metrology, Autonomous Navigation, Dynamics</p>
 
     </div>
 
