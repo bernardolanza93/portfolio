@@ -83,6 +83,11 @@ theme: jekyll-theme-minimal
         <li>Computer vision-based mapping of grapevine vigor variability for enhanced fertilization strategies through intelligent pruning</li>
         <li>First Step Towards Embedded Vision System for Pruning Wood Estimation</li>
         <li>Deep learning for gesture recognition in sportive training operation</li>
+        <li>...</li>
+
+
+        - <a href="https://scholar.google.it/citations?user=xE5inBMAAAAJ&hl=it">Other Publications</a><br>
+
         
       </ul>
     </div>
