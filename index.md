@@ -155,6 +155,8 @@ theme: jekyll-theme-minimal
       <p><strong>Adjunct Professor</strong><br>September 2023 - Present<br>Teaching Vision Systems for Mechatronics.</p>
 
       <p><strong>Adjunct Professor</strong><br>September 2021 - Present<br>Teaching Robotics and Measurements - Industrial Measurements Laboratory.</p>
+      <p><strong>Lecturer</strong><br>November 2023 <br>  “Probabilistic Sensor Fusion: From Naïve Bayes to Kalman Filters: Lab. of Mechanical and Thermal Measurements</p>
+
     </div>
 
     <div class="card">
