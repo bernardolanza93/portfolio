@@ -96,25 +96,33 @@ theme: jekyll-theme-minimal
     <div class="card">
       <h3>MMTLab @ UniBS</h3>
       <p><strong>Ph.D. student</strong><br>January 2022 - Present<br>Collaboration with PROSPECTO to develop optical measurement techniques and data analysis methods for monitoring plant health and estimating production.</p>
-      <img src="images/Picture1.jpg" alt="Aquisition system">
-      <figcaption>Aquisition system</figcaption>
-
-
-      <img src="images/buds.jpg" alt="Neural network for detection and tracking">
-      <figcaption>Neural network for buds detection and tracking</figcaption>
-
-      <img src="images/shoots.jpg" alt="Neural network for branch segmentation">
-      <figcaption>Neural network for branch segmentation</figcaption>
-
-      <img src="images/cylynder.jpg" alt="Measurments model">
-      <figcaption>Measurments model:series of varying diameter cylinder</figcaption>
-
-      <img src="images/vines.jpg" alt="Experimental campaign">
-      <figcaption>Experimental campaign</figcaption>
-      <img src="animations/buds_video.gif" alt="Animation">
-      <figcaption>Real-time DETECTION, TRACKING AND COUNTING</figcaption>
-
-
+      
+      <div class="image-gallery">
+        <div class="image-item">
+          <img src="images/Picture1.jpg" alt="Aquisition system">
+          <figcaption>Aquisition system</figcaption>
+        </div>
+        <div class="image-item">
+          <img src="images/buds.jpg" alt="Neural network for detection and tracking">
+          <figcaption>Neural network for buds detection and tracking</figcaption>
+        </div>
+        <div class="image-item">
+          <img src="images/shoots.jpg" alt="Neural network for branch segmentation">
+          <figcaption>Neural network for branch segmentation</figcaption>
+        </div>
+        <div class="image-item">
+          <img src="images/cylynder.jpg" alt="Measurments model">
+          <figcaption>Measurments model: series of varying diameter cylinder</figcaption>
+        </div>
+        <div class="image-item">
+          <img src="images/vines.jpg" alt="Experimental campaign">
+          <figcaption>Experimental campaign</figcaption>
+        </div>
+        <div class="image-item">
+          <img src="animations/buds_video.gif" alt="Animation">
+          <figcaption>Real-time DETECTION, TRACKING AND COUNTING</figcaption>
+        </div>
+      </div>
     </div>
 
     <div class="card">
