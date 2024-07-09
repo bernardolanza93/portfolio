@@ -85,8 +85,12 @@ theme: jekyll-theme-minimal
       <figcaption>3D reconstruction with novel custom SLAM algorithm</figcaption>
       <img src="images/dsc.png" alt="Aquisition scooter">
       <figcaption>Aquisition scooter</figcaption>
-      
 
+    </div>
+
+    <div class="card">
+      <h3>Prospecto Srl - Ph.D. industrial Stage </h3>
+      <p><strong>Junior Developer</strong><br>January 2023 - January 2024</p>
     </div>
 
     <div class="card">
@@ -156,6 +160,7 @@ theme: jekyll-theme-minimal
 
       <p><strong>Adjunct Professor</strong><br>September 2021 - Present<br>Teaching Robotics and Measurements - Industrial Measurements Laboratory.</p>
       <p><strong>Lecturer</strong><br>November 2023 <br>  “Probabilistic Sensor Fusion: From Naïve Bayes to Kalman Filters: Lab. of Mechanical and Thermal Measurements</p>
+      <p><strong> Didactics Design, Matlab, Predictive Maintenance, Statistics, Modal Analysis, Metrology, Autonomous Navigation</p>
 
     </div>
 
@@ -179,10 +184,7 @@ theme: jekyll-theme-minimal
       
     </div>
 
-    <div class="card">
-      <h3>Prospecto Srl</h3>
-      <p><strong>Junior Developer</strong><br>January 2023 - January 2024</p>
-    </div>
+
 
     <div class="card">
       <h3>Projects</h3>
