@@ -20,7 +20,7 @@ theme: jekyll-theme-minimal
 <div class="main-content">
     <div class="card">
       <h3>Contact Information</h3>
-      <img src="images/ben.jpeg" alt="Contact" style="width:50px; float:left; margin-right:10px;">
+      <img src="images/ben.jpeg" alt="Contact" style="width:100px; float:left; margin-right:10px;">
 
       <p>
         - Email: <a href="mailto:bernardo.lanza.tech@gmail.com">bernardo.lanza.tech@gmail.com</a><br>
