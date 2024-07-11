@@ -1,7 +1,10 @@
 ---
 title: Bernardo Lanza
+
 | Developer |
+
 | Ph.D. student |
+
 |Robotics Engineer |
 
 layout: default
