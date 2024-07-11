@@ -189,7 +189,7 @@ theme: jekyll-theme-minimal
       <p>In collaboration with ABHorizon, this project involves developing a vision-based pose estimator for human body and gym gesture recognition.</p>
       <p>Skills: OpenCV, Statistics, TCP/IP, Python, Deep Learning</p>
       <p>Publication: International Society of Biomechanics in Sports</p>
-      <p><a href="https://techxplore.com/news/2022-09-deep-learning-augmented-smart-mirror.html>Read the Online Feature Interview!</a></p>
+      <p><a href="https://techxplore.com/news/2022-09-deep-learning-augmented-smart-mirror.html">Read the Online Feature Interview!</a></p>
       <img src="images/isbs.jpg" alt="ISBS Conference">
       <figcaption>ISBS Conference</figcaption>
 
