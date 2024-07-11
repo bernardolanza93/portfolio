@@ -179,7 +179,7 @@ theme: jekyll-theme-minimal
       <img src="images/isbs.jpg" alt="ISBS Conference">
       <figcaption>ISBS Conference</figcaption>
 
-      <img src="images/ab.jpeg" alt="Smart mirror">
+      <img src="animations/abhanim.gif" alt="Smart mirror">
       <figcaption>Smart mirror</figcaption>
 
       <h4>Vision Embedded System for Crop and Weed Recognition</h4>
