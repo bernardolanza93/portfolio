@@ -155,10 +155,19 @@ theme: jekyll-theme-minimal
 
 
     <div class="card">
+
       <h3>Research Fellowship</h3>
-      <p>April 2021 - February 2022<br>Development of an embedded vision system using deep neural networks for crop and weed recognition.</p>
+      <h4>Vision Embedded System for Crop and Weed Recognition</h4>
+      <p><strong>August 2021 - February 2022</strong><br>Associated with MMTLab @ UniBS</p>
+      <p>April 2021 - February 2022<br>Development of an embedded vision system using deep neural networks for crop and weed recognition. In collaboration with Ferrari Costruzioni Meccaniche.</p>
+      <p>Skills: Embedded Linux, Python, Computer Vision, Engineering, Research & Development</p>
+      
       <img src="animations/cavolo.gif" alt="Intelligent segmentaation">   
       <figcaption>Intelligent segmentation</figcaption>
+      <img src="images/cvweed.jpeg" alt="Preneural Visual Detector">
+
+      <figcaption>Preneural Visual Detector</figcaption>
+
 
     </div>
     <div class="card">
@@ -187,12 +196,7 @@ theme: jekyll-theme-minimal
       <img src="animations/abhanim.gif" alt="Smart mirror">
       <figcaption>Smart mirror</figcaption>
 
-      <h4>Vision Embedded System for Crop and Weed Recognition</h4>
-      <p><strong>August 2021 - February 2022</strong><br>Associated with MMTLab @ UniBS</p>
-      <p>In collaboration with Ferrari Costruzioni Meccaniche, we're developing a vision-based embedded system, utilizing deep neural networks, for crop and weed recognition.</p>
-      <p>Skills: Embedded Linux, Python, Computer Vision, Engineering, Research & Development</p>
-      <img src="images/cvweed.jpeg" alt="Preneural Visual Detector">
-      <figcaption>Preneural Visual Detector</figcaption>
+
     </div>
 
     <div class="card">
