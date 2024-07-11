@@ -103,8 +103,8 @@ theme: jekyll-theme-minimal
       <h3>Experience</h3>
       <h3>ETSEA - Universitat de Lleida</h3>
       <p><strong>Ph.D International Research Period</strong><br>April 2024 - Present<br>Project focused on integrating low-cost RGB-D cameras with GNSS and IMU data using SLAM to create accurate 3D reconstructions of an apple orchard.</p>
-      <p><a href="https://www.grap.udl.cat/es/recerca/projectes-de-recerca/digifruit/field-work/</a></p>
 
+      <p><a href="https://www.grap.udl.cat/es/recerca/projectes-de-recerca/digifruit/field-work/">The Digifruit Project</a></p>
       <img src="images/Picture1 (1).png" alt="Aquisition system">
       <figcaption>Aquisition system: A)Intel Realsense D455f. B) ZED-x mini. C)Kinect Azure DK. D) Livox Mid-70 LiDAR. E) Nvidia Jetson Orin. </figcaption>
       <img src="images/GOAL.png" alt="3D pc with custom SLAM algorithm">
