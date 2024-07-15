@@ -27,7 +27,7 @@ theme: jekyll-theme-minimal
 <div class="main-content">
     <div class="card">
       <h3>Contact Information</h3>
-      <img src="images/ben.jpeg" alt="Contact" style="width:150px; float:left; margin-right:10px;">
+      <img src="images/ben.jpeg" alt="Contact" style="width:120px; float:left; margin-right:10px;">
 
       <p>
         - Email: <a href="mailto:bernardo.lanza.tech@gmail.com">bernardo.lanza.tech@gmail.com</a><br>
@@ -191,7 +191,6 @@ theme: jekyll-theme-minimal
       <p>Publication: </p>
       <p><a href="https://isbs.org/">International Society of Biomechanics in Sports</a></p>
 
-      https://isbs.org/
       <p><a href="https://techxplore.com/news/2022-09-deep-learning-augmented-smart-mirror.html">Read the Online Feature Interview!</a></p>
       <img src="images/isbs.jpg" alt="ISBS Conference">
       <figcaption>ISBS Conference</figcaption>
