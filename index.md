@@ -142,12 +142,7 @@ theme: jekyll-theme-minimal
     
       <img src="animations/buds_video.gif" alt="Animation">
       <figcaption>Real-time DETECTION, TRACKING AND COUNTING</figcaption>
-    
-      <img src="images/3dwood.jpeg" alt="Animation">
-      <figcaption>3D estimation of branch</figcaption>
-    
-      <img src="images/graph_volume.jpeg" alt="Animation">
-      <figcaption>Results of volume estimation</figcaption>
+
     
       <img src="images/flow.png" alt="flow">
       <figcaption>Processing pipeline</figcaption>
