@@ -176,7 +176,8 @@ theme: jekyll-theme-minimal
       <p><strong>September 2022 - June 2023</strong><br>Associated with MMTLab @ UniBS</p>
       <p>Gesture recognition for Healthcare 4.0: a machine learning approach to reduce clinical infection risks. In collaboration with Idea-Re S.r.l., we created a vision-based system to detect hands and recognize gestures for monitoring surgical handwashing procedures, essential for infection control. We also deployed machine learning algorithms to analyze the data collected by the system.</p>
       <p>Skills: Machine learning, Python, Biomechanics, Deep Learning</p>
-      <p>Publication: 2023 IEEE International Workshop on Metrology for Industry 4.0 and IoT</p>
+      <li> <a href="https://ieeexplore.ieee.org/abstract/document/10180128/">Other Publication: 2023 IEEE International Workshop on Metrology for Industry 4.0 and IoT</a><br> </li>
+
       <img src="images/hand.jpeg" alt="Hand Pose">  
       <figcaption>Hand Pose</figcaption>
 
