@@ -21,7 +21,7 @@ theme: jekyll-theme-minimal
 
 <div style="text-align: right;">
   <h1>Portfolio</h1>
-  <p>Developer | Ph.D. student in mechanical and industrial engineering | Deep learning and machine vision for agriculture</p>
+  <p>Bernardo Lanza's portfolio - Developer and Ph.D. student specializing in deep learning, computer vision and measurements for agriculture and human body.</p>
 </div>
 
 <div class="main-content">
