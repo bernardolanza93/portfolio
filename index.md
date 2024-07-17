@@ -59,11 +59,55 @@ theme: jekyll-theme-minimal
 
     <div class="card">
       <h3>Key Competencies</h3>
-      <ul>
-        <li>RTK GNSS</li>
-        <li>IMU</li>
-        <li>SLAM</li>
-      </ul>
+      <h4>Sensors and Hardware</h4>
+        <ul>
+          <li>RTK GNSS</li>
+          <li>IMU</li>
+          <li>Kinect Azure</li>
+          <li>Nvidia</li>
+          <li>Livox Mid-70 LiDAR</li>
+          <li>ESP32 module</li>
+          <li>Xsens MTi-630 IMU</li>
+          <li>Microcontrollers</li>
+        </ul>
+
+      <h4>Software Technologies</h4>
+        <ul>
+
+          <li>SLAM</li>
+          <li>ROS</li>
+          <li>Point cloud processing</li>
+          <li>Autonomous navigation</li>
+          <li>Predictive Maintenance</li>
+          <li>Deep Neural Networks</li>
+          <li>Machine learning</li>
+          <li>TCP/IP</li>
+          <li>Embedded Linux</li>
+          <li>Computer vision</li>
+          <li>Artificial intelligence</li>
+          <li>Robotics</li>
+          <li>Modal analysis</li>
+          <li>Python</li>
+          <li>OpenCV</li>
+          <li>Deep Learning</li>
+          <li>C++</li>
+          <li>Matlab</li>
+          <li>Programming</li>
+        </ul>
+
+      <h4>Tools and Applications</h4>
+        <ul>
+            <li>Microsoft Excel</li>
+            <li>Microsoft Office</li>
+        </ul>
+      <h4>Disciplines and Methods</h4>
+        <ul>
+            <li>Biomechanics</li>
+            <li>Engineering</li>
+            <li>Research and Development</li>
+            <li>Metrology</li>
+            <li>Statistics</li>
+        </ul>
     </div>
 
     <div class="card">
