@@ -77,7 +77,7 @@ theme: jekyll-theme-minimal
       
         <h3>Ph.D in Mechanical and industrial engineering: Optical-based measurement for plant monitoring and yield estimation.</h3>
         
-        <h3>DeepLearn Summer School</h3>
+        <h3>DeepLearn Summer School 2021 | IRDTA certificate | 38 hours, July 26-30, 2021 </h3>
 
 
     </div>
