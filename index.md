@@ -31,6 +31,7 @@ theme: jekyll-theme-minimal
 
       <p>
         - Email: <a href="mailto:bernardo.lanza.tech@gmail.com">bernardo.lanza.tech@gmail.com</a><br>
+        - <a href="https://drive.google.com/file/d/1pTFV-3iUVg1ibPftl2k2LsCGRnFCGmx2/view?usp=sharing">Currículum Vitae</a><br>
         - <a href="https://www.linkedin.com/in/bernardo-lanza-554064163">LinkedIn</a><br>
         - <a href="https://scholar.google.it/citations?user=xE5inBMAAAAJ&hl=it">Publications</a><br>
         - <a href="https://github.com/bernardolanza93">Github</a>
