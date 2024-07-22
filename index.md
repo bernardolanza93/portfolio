@@ -40,8 +40,7 @@ theme: jekyll-theme-minimal
 
     <div class="card">
       <h2>Resume</h2>
-      Hey there! I m Bernardo, the tech wizard who turns orchards into high-tech havens using AI and computer vision. Armed with a Ph.D. and a passion for mechatronics, I blend robotics and nature like no other. When I m not revolutionizing agriculture, you can find me diving into history, tinkering with DIY IoT gadgets, or volunteering for community causes. Let’s team up and create the future together!
-      
+      Hey there! I'm Bernardo, a tech wizard who enjoys turning orchards into high-tech spaces with AI and computer vision. I have a Ph.D. in mechatronics and a passion for blending robotics with nature. When I'm not working on agricultural innovations, I love diving into history, tinkering with DIY IoT gadgets, or volunteering for community causes. Let's team up and create the future together!      
 
     </div>
 
