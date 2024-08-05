@@ -245,12 +245,24 @@ theme: jekyll-theme-minimal
     </div>
 
     <div class="card">
-      <h3>University of Brescia</h3>
-      <p><strong>Adjunct Professor</strong><br>September 2023 - Present<br>Teaching Vision Systems for Mechatronics.</p>
+      <h2>University of Brescia</h2>
+      <h3>Adjunct Professor</h3>
+      <p><br>Teaching Vision Systems for Mechatronics.<br>September 2023 - December 2024</p>
 
-      <p><strong>Adjunct Professor</strong><br>September 2021 - Present<br>Teaching Robotics and Measurements - Industrial Measurements Laboratory.</p>
-      <p><strong>Lecturer</strong><br>November 2023 <br>  “Probabilistic Sensor Fusion: From Naïve Bayes to Kalman Filters: Lab. of Mechanical and Thermal Measurements</p>
+
+      <h3>Adjunct Professor</h3>
+      <p><br>Teaching Robotics and Measurements - Industrial Measurements Laboratory.<br>September 2021 - February 2024</p>
       <p>Didactics Design, Matlab, Predictive Maintenance, Statistics, Modal Analysis, Metrology, Autonomous Navigation, Dynamics</p>
+
+      <h3>Conference Article Reviewer</h3>
+      <ul>
+        <li>2024 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)</li>
+        <li>2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)</li>
+
+      
+      </ul>
+
+
 
     </div>
 
