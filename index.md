@@ -262,6 +262,7 @@ theme: jekyll-theme-minimal
 
       
       </ul>
+      <h3>M.S. and B.S. Thesis Co-supervisor</h3>
 
 
 
