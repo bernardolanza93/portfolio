@@ -255,7 +255,7 @@ theme: jekyll-theme-minimal
     </div>
 
     <div class="card">
-      <h3>University of Trento</h3>
+      <h2>University of Trento</h2>
       
 
       <p><strong>Master Thesis Project</strong><br>March 2020 - November 2020<br>Development of a localization system (SLAM) using INTEL RealSense D435 and T265 optical sensors.</p>
@@ -265,6 +265,17 @@ theme: jekyll-theme-minimal
       
       <p><strong>Physics - Mechanics Lab Tutor</strong><br>October 2019 - April 2021</p>
       <p><strong>Physics Tutor (Cinematics, Dynamics, and Electromagnetism) </strong><br>February 2019 - September 2019</p>
+
+      <h3>Master Academic Projects</h3>
+      <ul>
+        <li>Computer Vision, Prof. Nicola Conci: “Counting and tracking pedestrians in a crossroad using OpenCV libraries [C++]”</li>
+        <li>Design and Control of Product and Process, Prof. Paolo Bosetti: Challenge in collaboration with Manfrotto, 1st place group: Reverse engineering, Reproject new modular range of tripod – that can be customized by the end user according to the application needed, photo or video. [Autocad] </li>
+        <li>Systems and Techniques for Digital Signal Processing, Prof. David Macii: Digital signal processing algorithms for ARVA signal detection [Matlab]</li>
+        <li>Sensors and Micro Electro-Mechanical Systems, Prof. Gian Franco Dalla Betta: Contact force sensing of cantilever probe using a p-type silicon piezoresistive strain gauge [Ansys]</li>
+        <li>Robotic Perception and Action, Prof. Mariolino De Cecco: Unity simulation of an AGV robot performing SLAM operation in a non-structured open environment. [Unity, C#]</li>
+
+      </ul>
+
       <h3>Bachelor Degree in Industrial Engineering</h3>
       <img src="images/trie.png" alt="Aquisition system">
       <figcaption>B.S. thesis: Design and implementation of custom optical encoder vs professional encoders</figcaption>
