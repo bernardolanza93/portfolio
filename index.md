@@ -156,7 +156,7 @@ theme: jekyll-theme-minimal
       <figcaption>Aquisition system: A)Intel Realsense D455f. B) ZED-x mini. C)Kinect Azure DK. D) Livox Mid-70 LiDAR. E) Nvidia Jetson Orin. </figcaption>
       <img src="images/GOAL.png" alt="3D pc with custom SLAM algorithm">
       <figcaption>Single Kinect raw pointcloud - harsh environment - low quality input </figcaption>
-      <img src="images/ggg.png" alt="3D reconstruction with custom SLAM algorithm">
+      <img src="animations/rawss.gif" alt="3D reconstruction with custom SLAM algorithm">
       <figcaption>Succesful 3D reconstruction with novel custom SLAM algorithm</figcaption>
       <img src="images/dsc.png" alt="Aquisition scooter">
       <figcaption>Aquisition scooter: 1)RTK GNSS + ESP32 module. 2) Optical Sensors. 3) Livox Mid-70 LiDAR + Xsens MTi-630 IMU.  4) Scooter.</figcaption>
