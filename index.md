@@ -257,7 +257,8 @@ theme: jekyll-theme-minimal
       <h3>Conference Article Reviewer</h3>
       <ul>
         <li>2024 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)</li>
-        <li>2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor)</li>
+        <li>2023 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor) x2 </li>
+        <li>2024 IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics (BioRob) </li>
 
       
       </ul>
