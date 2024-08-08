@@ -27,7 +27,7 @@ theme: jekyll-theme-minimal
 <div class="main-content">
     <div class="card">
       <h3>Contact Information</h3>
-      <img src="images/ben.jpeg" alt="Contact" style="width:100px; float:left; margin-right:10px;">
+      <img src="images/ben.jpeg" alt="Contact" style="width:120px; float:left; margin-right:10px;">
 
       <p>
         - Email: <a href="mailto:bernardo.lanza.tech@gmail.com">bernardo.lanza.tech@gmail.com</a><br>
@@ -41,13 +41,13 @@ theme: jekyll-theme-minimal
 
     <div class="card">
       <h2>Resume</h2>
-      Hey there! I'm Bernardo, a tech wizard who enjoys turning orchards into high-tech spaces with AI and computer vision. I have a Ph.D. in mechatronics and a passion for blending robotics with nature. When I'm not working on agricultural innovations, I love diving into history, tinkering with DIY IoT gadgets, or volunteering for community causes. Let's team up and create the future together!      
+      I’m Bernardo, a tech expert with a Ph.D. in mechatronics, specializing in integrating AI and computer vision into agriculture. My background in measurement science and statistics supports my projects management, from device prototyping to data analysis and validation. Outside of work, I enjoy history, DIY IoT gadgets, and community volunteering.
 
     </div>
 
     <div class="card">
       <h3>Awards</h3>
-      <p>2023 Best Poster Award at the IEEE International Workshop on Metrology for Agriculture and Forestry for the poster "FIRST STEP TOWARDS EMBEDDED VISION SYSTEM FOR PRUNING WOOD ESTIMATION."</p>
+      <p>2023 Best Poster Award at the IEEE International Workshop on Metrology for Agriculture and Forestry for the poster "First Step Towards Embedded Vision System For Pruning Wood Estimation."</p>
       <img src="images/award.jpeg" alt="Conference">
       <figcaption>Conference cerimony</figcaption>
       <img src="images/award2.jpeg" alt="Poster">
@@ -61,10 +61,13 @@ theme: jekyll-theme-minimal
       <h3>Key Competencies</h3>
       <h4>Sensors and Hardware</h4>
         <ul>
+          <li>RGB industrial Cameras (Basler DART, ACE, Opto Engineering)</li>
+          <li>RGB Sensors </li>
+          <li>INTEL Realsense D400/T200 series (</li>
           <li>RTK GNSS</li>
           <li>IMU</li>
           <li>Kinect Azure</li>
-          <li>Nvidia</li>
+          <li>Nvidia Jetson</li>
           <li>Livox Mid-70 LiDAR</li>
           <li>ESP32 module</li>
           <li>Xsens MTi-630 IMU</li>
@@ -81,7 +84,7 @@ theme: jekyll-theme-minimal
           <li>Predictive Maintenance</li>
           <li>Deep Neural Networks</li>
           <li>Machine learning</li>
-          <li>TCP/IP</li>
+          <li>TCP/IP protocol</li>
           <li>Embedded Linux</li>
           <li>Computer vision</li>
           <li>Artificial intelligence</li>
@@ -89,10 +92,8 @@ theme: jekyll-theme-minimal
           <li>Modal analysis</li>
           <li>Python</li>
           <li>OpenCV</li>
-          <li>Deep Learning</li>
           <li>C++</li>
           <li>Matlab</li>
-          <li>Programming</li>
         </ul>
 
       <h4>Tools and Applications</h4>
@@ -107,13 +108,14 @@ theme: jekyll-theme-minimal
             <li>Research and Development</li>
             <li>Metrology</li>
             <li>Statistics</li>
+            <li>Computer Science</li>
         </ul>
     </div>
 
     <div class="card">
       <h3>Languages</h3>
       <p>Italian (native speaker)</p>
-      <p>English (Full Professional)</p>
+      <p>English (Speaking B2, Writing and Reading C1)</p>
     </div>
 
     <div class="card">
@@ -134,7 +136,6 @@ theme: jekyll-theme-minimal
       <ul>
         <li>STEWIE: eSTimating grapE berries number and radius from images using a Weakly supervIsed nEural network</li>
         <li>Gesture recognition for Healthcare 4.0: a machine learning approach to reduce clinical infection risks</li>
-        <li>Computer vision-based mapping of grapevine vigor variability for enhanced fertilization strategies through intelligent pruning</li>
         <li>First Step Towards Embedded Vision System for Pruning Wood Estimation</li>
         <li>Deep learning for gesture recognition in sportive training operation</li>
         <li>...</li>
@@ -149,7 +150,7 @@ theme: jekyll-theme-minimal
     <div class="card">
       <h3>Experience</h3>
       <h3>ETSEA - Universitat de Lleida</h3>
-      <p><strong>Ph.D International Research Period</strong><br>April 2024 - Present<br>Project focused on integrating low-cost RGB-D cameras with GNSS and IMU data using SLAM to create accurate 3D reconstructions of an apple orchard.</p>
+      <p><strong>Ph.D International Research Period</strong><br>April 2024 - August 2024<br>Project focused on integrating low-cost RGB-D cameras with GNSS and IMU data using SLAM to create accurate 3D reconstructions of an apple orchard.</p>
 
       <p><a href="https://www.grap.udl.cat/es/recerca/projectes-de-recerca/digifruit/field-work/">The Digifruit Project</a></p>
       <img src="images/Picture1 (1).png" alt="Aquisition system">
@@ -165,7 +166,9 @@ theme: jekyll-theme-minimal
 
     <div class="card">
       <h3>Prospecto Srl - Ph.D. industrial Stage </h3>
-      <p><strong>Junior Developer</strong><br>January 2023 - January 2024</p>
+      <h2>Junior Developer<br>January 2023 - January 2024</h2>
+      <p>Configuration and assembly of sensors and microcontrollers for weather stations. Development of computer vision algorithms for crop monitoring.</p>
+
     </div>
 
     <div class="card">
