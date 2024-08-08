@@ -166,14 +166,15 @@ theme: jekyll-theme-minimal
 
     <div class="card">
       <h3>Prospecto Srl - Ph.D. industrial Stage </h3>
-      <h2>Junior Developer<br>January 2023 - January 2024</h2>
+      <h4>Junior Developer<br>January 2023 - January 2024</h4>
       <p>Configuration and assembly of sensors and microcontrollers for weather stations. Development of computer vision algorithms for crop monitoring.</p>
 
     </div>
 
     <div class="card">
       <h3>MMTLab @ UniBS</h3>
-      <p><strong>Ph.D. student</strong><br>January 2022 - Present<br>Collaboration with PROSPECTO to develop optical measurement techniques and data analysis methods for monitoring plant health and estimating production.</p>
+      <h4>Ph.D. student</h4>
+      <h5>January 2022 - Present<br>Collaboration with PROSPECTO to develop optical measurement techniques and data analysis methods for monitoring plant health and estimating production.</h5>
       
       <img src="images/Picture1.jpg" alt="Aquisition system">
       <figcaption>Aquisition system: A) Intel RealSense D435i. B) Intel RealSense T265 VO. C) Basler RGB DART camera (model daA2500-14uc) D) Nvidia Jetson Nano </figcaption>
@@ -265,6 +266,7 @@ theme: jekyll-theme-minimal
 
       
       </ul>
+      <br>
       <h3>M.S. and B.S. Thesis Co-supervisor</h3>
 
 
