@@ -43,9 +43,9 @@ h2 small
 h3
 	{
 		text-align: center;
-		font-size: 40px;
+		font-size: 30px;
 		padding-bottom: 40px;
-		color: #ffffff;
+		color: #4a4a4a; /* medium dark gray */;
 	}
 h3 span
 	{
@@ -293,15 +293,15 @@ header .social-icon li a
 	{
 		background: #FFFFFF;
 		background-size: cover;
-		padding-top: 50px;
-		padding-bottom: 10px;
+		padding-top: 5%;
+		color: #4a4a4a; /* medium dark gray */
 		min-height: 620px;
 	}
 #resume h1
 	{
 		font-weight: 300;
 		font-size: 20px;
-		padding-bottom: 10px;
+		padding-bottom: 5%;
 		color: #000000;
 	}
 #resume h1 span
@@ -310,7 +310,7 @@ header .social-icon li a
 		font-weight: bold;
 	}
 #resume .element1 {
-	height: 60px;
+	height: 70px;
 	font-size: 16px;
 	color: #000000;
 }
