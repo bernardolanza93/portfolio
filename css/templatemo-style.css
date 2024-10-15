@@ -278,7 +278,7 @@ header .social-icon li a
 
 #photo
 	{
-		background: url('../images/photo.png') no-repeat;
+		background: url('../images/photo.jpg') no-repeat;
 		background-size: cover;
 		padding-top: 240px;
 		padding-bottom: 240px;
@@ -351,7 +351,7 @@ header .social-icon li a
 #research .responsive {
 	width: 100%;
 	max_width: 200px;
-  height: auto;
+    height: auto;
 }
 #research .active
 	{
