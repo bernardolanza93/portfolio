@@ -279,8 +279,8 @@ header .social-icon li a
 #photo {
     background: url('../images/photo.jpg') no-repeat center center;
     background-size: contain;
-    padding-top: 440px;
-    padding-bottom: 440px;
+    padding-top: 240px;
+    padding-bottom: 240px;
     width: 100%;
     height: auto;
 }
