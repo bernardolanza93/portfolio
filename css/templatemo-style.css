@@ -276,15 +276,14 @@ header .social-icon li a
 
 /*start photo*/
 
-#photo
-	{
-		background: url('../images/photo.jpg') no-repeat;
-		background-size: cover;
-		padding-top: 240px;
-		padding-bottom: 240px;
-		width: 100%;
+#photo {
+    background: url('../images/photo.jpg') no-repeat center center;
+    background-size: contain;
+    padding-top: 240px;
+    padding-bottom: 240px;
+    width: 100%;
     height: auto;
-	}
+}
 
 /*end photo*/
 
