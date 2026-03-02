@@ -261,9 +261,20 @@ header .social-icon li a
 		border-color: transparent;
 	}
 .element {
-	height: 60px;
+	min-height: 170px;
+	height: auto;
 	font-size: 16px;
 	color: #D3D3D3;
+}
+.home-cta {
+	margin-top: 34px;
+	position: relative;
+	z-index: 2;
+}
+.home-cta .btn {
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-width: 2px;
 }
 /* end home */
 
@@ -309,9 +320,11 @@ header .social-icon li a
 		font-weight: bold;
 	}
 #resume .element1 {
-	height: 70px;
+	height: auto;
+	min-height: 70px;
 	font-size: 16px;
 	color: #000000;
+	margin-bottom: 10px;
 }
 .element1 small {
 	font-size: 10px;
@@ -329,9 +342,10 @@ header .social-icon li a
 
 /* start research */
 #research{
-	 padding: 50px;
+	 padding: 50px 0;
 	 min-height: 600px;
 	 background: #E5E4E2;
+	 overflow-x: hidden;
 }
 #research .col-md-4
 	{
@@ -358,10 +372,69 @@ header .social-icon li a
 		padding: 40px;
 	}
 #research h4
-		{
-			color: #000000;
-			font-weight: 600;
-		}
+			{
+				color: #000000;
+				font-weight: 600;
+			}
+.research-card {
+	background: #ffffff;
+	border: 1px solid #d8d6d3;
+	border-radius: 8px;
+	padding: 24px;
+	width: 100%;
+	max-width: 100%;
+	margin: 0 0 30px 0;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.research-card p {
+	color: #333333;
+	margin-bottom: 10px;
+}
+.research-skills {
+	margin-bottom: 16px;
+}
+.research-primary {
+	margin: 0 0 20px 0;
+}
+.research-primary img {
+	display: block;
+	width: 100%;
+	max-width: 600px;
+	height: auto;
+}
+.research-gallery {
+	display: grid;
+	grid-template-columns: repeat(2, minmax(0, 1fr));
+	gap: 16px;
+}
+.research-gallery figure {
+	margin: 0;
+}
+.research-gallery img {
+	width: 100%;
+	height: auto;
+}
+.research-card figcaption {
+	color: #333333;
+	font-size: 13px;
+	margin-top: 6px;
+	word-break: break-word;
+}
+.research-card a {
+	word-break: break-word;
+}
+@media (max-width: 991px) {
+	#research {
+		padding: 30px 0;
+	}
+	.research-card {
+		padding: 16px;
+	}
+	.research-gallery {
+		grid-template-columns: 1fr;
+	}
+}
 /* end research */
 
 /* start teaching */
