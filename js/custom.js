@@ -4,14 +4,21 @@ $(function(){
 
     /* start typed element */
     //http://stackoverflow.com/questions/24874797/select-div-title-text-and-make-array-with-jquery
-    var subElementArray = $.map($('.sub-element'), function(el) { return $(el).text(); });    
+    var subElementArray = $.map($('.sub-element'), function(el) {
+        return $(el).html().trim();
+    });
+    var fullTypedString = subElementArray.join('<br>');
+    $('.sub-element').remove();
     $(".element").typed({
-        strings: subElementArray,
-        typeSpeed: 30,
+        strings: [fullTypedString],
+        typeSpeed: 8,
         contentType: 'html',
         showCursor: false,
-        loop: true,
-        loopCount: true,
+        loop: false,
+        loopCount: 1,
+        callback: function() {
+            $(".element").html(fullTypedString);
+        }
     });
     /* end typed element */
 

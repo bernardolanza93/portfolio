@@ -45,7 +45,7 @@ h3
 		text-align: center;
 		font-size: 30px;
 		padding-bottom: 40px;
-		color: #4a4a4a; /* medium dark gray */;
+		color: #4a4a4a; /* medium dark gray */
 	}
 h3 span
 	{
@@ -55,7 +55,7 @@ h3 span
 /* end h3 */
 
 /* start about research teaching */
-#about, #research #teaching
+#about, #research, #teaching
 	{
 		padding-top: 60px;
 		padding-bottom: 40px;
@@ -181,7 +181,7 @@ header .social-icon li a
 	}
 /* end header */
 
-/* start nagivation */
+/* start navigation */
 .navbar-default
 	{
 		background: #fff;
@@ -263,7 +263,7 @@ header .social-icon li a
 .element {
 	height: 60px;
 	font-size: 16px;
-	color: #000000;
+	color: #D3D3D3;
 }
 /* end home */
 
@@ -296,14 +296,14 @@ header .social-icon li a
 		color: #4a4a4a; /* medium dark gray */
 		min-height: 620px;
 	}
-#resume h1
+#resume h1, #resume h2
 	{
 		font-weight: 300;
 		font-size: 20px;
 		padding-bottom: 5%;
 		color: #000000;
 	}
-#resume h1 span
+#resume h1 span, #resume h2 span
 	{
 		color: #000000;
 		font-weight: bold;
@@ -327,7 +327,7 @@ header .social-icon li a
 /* end resume */
 
 
-/* start resarch */
+/* start research */
 #research{
 	 padding: 50px;
 	 min-height: 600px;
@@ -349,7 +349,7 @@ header .social-icon li a
 
 #research .responsive {
 	width: 100%;
-	max_width: 200px;
+	max-width: 200px;
     height: auto;
 }
 #research .active
@@ -362,7 +362,7 @@ header .social-icon li a
 			color: #000000;
 			font-weight: 600;
 		}
-/* end resarch */
+/* end research */
 
 /* start teaching */
 #teaching
