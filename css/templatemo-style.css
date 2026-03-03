@@ -14,10 +14,80 @@ body
 
 a {
 	color: #000000;
+	outline: none;
+	box-shadow: none;
+	-webkit-transition: none !important;
+	transition: none !important;
 }
 
 a:hover {
 	color: #857f7e;
+	outline: none;
+	box-shadow: none;
+}
+
+a:focus,
+a:active,
+a:focus-visible {
+	outline: none !important;
+	box-shadow: none !important;
+	border-left: none !important;
+	text-decoration: none;
+}
+
+/* Disable decorative link markers globally */
+a::before,
+a::after {
+	content: none !important;
+	display: none !important;
+}
+
+/* Hard kill for any accidental left marker on hover/focus */
+body a:hover,
+body a:focus,
+body a:active,
+body p:hover,
+body span:hover,
+body li:hover,
+body h1:hover,
+body h2:hover,
+body h3:hover,
+body h4:hover,
+body h5:hover,
+body h6:hover {
+	border-left: 0 !important;
+	box-shadow: none !important;
+	outline: 0 !important;
+}
+
+/* Targeted reset for text hover markers without touching layout pseudo-elements */
+body a:hover::before,
+body a:hover::after,
+body a:focus::before,
+body a:focus::after,
+body a:active::before,
+body a:active::after,
+body p:hover::before,
+body p:hover::after,
+body span:hover::before,
+body span:hover::after,
+body li:hover::before,
+body li:hover::after,
+body h1:hover::before,
+body h1:hover::after,
+body h2:hover::before,
+body h2:hover::after,
+body h3:hover::before,
+body h3:hover::after,
+body h4:hover::before,
+body h4:hover::after,
+body h5:hover::before,
+body h5:hover::after,
+body h6:hover::before,
+body h6:hover::after {
+	content: none !important;
+	border-left: 0 !important;
+	box-shadow: none !important;
 }
 
 /* start h2 */
@@ -197,26 +267,87 @@ header .social-icon li a
 		line-height: 40px;
 		padding: 12px 0px 0px 12px;
 	}
-.navbar-default .navbar-nav li a
+.navbar-default .navbar-nav > li > a
 	{
+		/* hard reset to avoid hidden legacy styles on menu links */
+		all: unset;
+		display: block;
 		font-weight: bold;
 		font-size: 13px;
 		height: 70px;
 		line-height: 40px;
+		position: relative;
+		padding-left: 24px;
+		padding-right: 14px;
+		color: #000000;
+		cursor: pointer;
+		text-decoration: none !important;
+		user-select: none;
+		-webkit-user-select: none;
 	}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+	text-decoration: none;
+	outline: none;
+	border-left: none !important;
+	box-shadow: none !important;
+	background-color: transparent;
+}
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:active,
+.navbar-default .navbar-nav > li > a:focus-visible {
+	border-left: none !important;
+	box-shadow: none !important;
+	outline: none !important;
+}
 
 .navbar-default .navbar-nav > li > a.current {
 	color: #000000;
+	border: 0 !important;
+	border-left: 0 !important;
+	background-image: none !important;
+}
+
+/* Navbar hard reset: disable legacy blue indicators on menu links */
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:active,
+.navbar-default .navbar-nav > li > a:focus-visible,
+.navbar-default .navbar-nav > li > a.current {
+	border: 0 !important;
+	border-left: 0 !important;
+	outline: 0 !important;
+	outline-offset: 0 !important;
+	box-shadow: none !important;
+	text-decoration: none !important;
+	background-image: none !important;
+	-webkit-focus-ring-color: transparent !important;
+	user-select: none;
+	-webkit-user-select: none;
+}
+
+.navbar-default .navbar-nav > li > a::after {
+	content: none !important;
+	display: none !important;
+}
+
+.navbar-default .navbar-nav > li > a::selection {
+	background: transparent;
 }
 .templatemo-nav {
 	border-radius: 0;
 	width: 100%;
 	z-index: 1000;
+	min-height: 70px;
 }
 .sticky {
-	position: fixed;
-	left: 0;
-	top: 0;
+	position: static !important;
+	left: auto !important;
+	top: auto !important;
+}
+.templatemo-nav.sticky + #home {
+	margin-top: 0;
 }
 /* end navigation */
 
@@ -275,6 +406,21 @@ header .social-icon li a
 	margin-right: 10px;
 	margin-bottom: 10px;
 	border-width: 2px;
+}
+.home-cta .btn-thesis {
+	background: #09A9C8;
+	border-color: #09A9C8;
+	color: #ffffff !important;
+	font-weight: 700;
+	letter-spacing: 0.3px;
+	box-shadow: 0 0 0 2px rgba(9, 169, 200, 0.25);
+}
+.home-cta .btn-thesis:hover,
+.home-cta .btn-thesis:focus {
+	background: #0789a3 !important;
+	border-color: #0789a3 !important;
+	color: #ffffff !important;
+	box-shadow: 0 0 0 4px rgba(9, 169, 200, 0.2) !important;
 }
 /* end home */
 
@@ -383,7 +529,7 @@ header .social-icon li a
 	padding: 24px;
 	width: 100%;
 	max-width: 100%;
-	margin: 0 0 30px 0;
+	margin: 0 0 40px 0;
 	box-sizing: border-box;
 	overflow: hidden;
 }
@@ -409,7 +555,7 @@ header .social-icon li a
 	gap: 16px;
 }
 .research-gallery figure {
-	margin: 0;
+	margin: 0 0 10px 0;
 }
 .research-gallery img {
 	width: 100%;
@@ -418,7 +564,9 @@ header .social-icon li a
 .research-card figcaption {
 	color: #333333;
 	font-size: 13px;
-	margin-top: 6px;
+	line-height: 1.5;
+	margin-top: 10px;
+	margin-bottom: 8px;
 	word-break: break-word;
 }
 .research-card a {
@@ -435,7 +583,29 @@ header .social-icon li a
 		grid-template-columns: 1fr;
 	}
 }
+@media (max-width: 767px) {
+	h2 {
+		font-size: 30px;
+		line-height: 1.2;
+	}
+}
 /* end research */
+
+/* Global focus-ring reset: keep custom indicators only */
+html body a:focus,
+html body a:active,
+html body a:focus-visible,
+html body a:hover {
+	outline: 0 !important;
+	outline-offset: 0 !important;
+	-webkit-focus-ring-color: transparent !important;
+	box-shadow: none !important;
+	border-left: 0 !important;
+}
+
+html body a::-moz-focus-inner {
+	border: 0 !important;
+}
 
 /* start teaching */
 #teaching
