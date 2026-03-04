@@ -125,11 +125,11 @@ h3 span
 /* end h3 */
 
 /* start about research teaching */
-#about, #research, #teaching
-	{
-		padding-top: 60px;
-		padding-bottom: 40px;
-	}
+#about, #thesis-vision, #research, #teaching
+		{
+			padding-top: 60px;
+			padding-bottom: 40px;
+		}
 /* end about research teaching */
 
 /* start preloader */
@@ -426,10 +426,43 @@ header .social-icon li a
 
 /* start about */
 #about
+		{
+			background: #ffffff;
+	}
+/* end about */
+
+/* start thesis vision */
+#thesis-vision
+	{
+		background: #f4f8f9;
+	}
+#thesis-vision h2
+	{
+		color: #000000;
+	}
+.thesis-vision-card
 	{
 		background: #ffffff;
-}
-/* end about */
+		border: 1px solid #d8d6d3;
+		border-left: 4px solid #09A9C8;
+		border-radius: 8px;
+		padding: 24px;
+		color: #333333;
+	}
+.thesis-vision-card p
+	{
+		margin-bottom: 14px;
+	}
+.thesis-vision-links
+	{
+		margin-top: 20px;
+	}
+.thesis-vision-links .btn
+	{
+		margin-right: 10px;
+		margin-bottom: 10px;
+	}
+/* end thesis vision */
 
 /*start photo*/
 
@@ -639,17 +672,24 @@ html body a::-moz-focus-inner {
 
 /* start publications */
 #publications
-	{
-		background: #FFFFFF;
-		padding: 40px;
-		overflow-y:  auto;
-		overflow-x: hidden;
-		min-height: 3500px;
-	}
+		{
+			background: #FFFFFF;
+			padding: 40px;
+			overflow-y:  auto;
+			overflow-x: hidden;
+			min-height: 3500px;
+		}
+#publications h2,
+#publications h3,
+#publications p,
+#publications li,
+#publications figcaption {
+	color: #1f2933;
+}
 #publications h1
-	{
-		font-weight: 300;
-		font-size: 20px;
+		{
+			font-weight: 300;
+			font-size: 20px;
 		padding-bottom: 10px;
 		color: #000000;
 	}
@@ -668,10 +708,74 @@ html body a::-moz-focus-inner {
 	font-size: 15px;
 	color: #000000;
 }
-.element2 {
-	height: 300px;
-	font-size: 15px;
-	color: #000000;
+	.element2 {
+		height: 300px;
+		font-size: 15px;
+		color: #000000;
+	}
+.award-card {
+	background: #ffffff;
+	border: 1px solid #d8d6d3;
+	border-left: 4px solid #09A9C8;
+	border-radius: 8px;
+	padding: 22px;
+	margin: 10px 0 28px 0;
+}
+.award-badge {
+	display: inline-block;
+	background: #e8f7fb;
+	color: #0b7285;
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 0.04em;
+	text-transform: uppercase;
+	padding: 4px 10px;
+	border-radius: 999px;
+	margin-bottom: 8px;
+}
+.award-card h3 {
+	margin: 6px 0 8px 0;
+	font-weight: 700;
+}
+.award-event {
+	font-weight: 600;
+	margin-bottom: 6px;
+}
+.award-paper {
+	font-style: italic;
+	margin-bottom: 16px;
+}
+.award-gallery {
+	display: grid;
+	grid-template-columns: repeat(3, minmax(0, 1fr));
+	gap: 14px;
+}
+.award-gallery figure {
+	margin: 0;
+}
+.award-gallery img {
+	display: block;
+	width: 100%;
+	height: auto;
+	border-radius: 6px;
+	border: 1px solid #d8d6d3;
+}
+.award-gallery figcaption {
+	margin-top: 8px;
+	font-size: 13px;
+}
+.publications-subtitle {
+	margin: 0 0 12px 0;
+	font-weight: 700;
+}
+.publication-list {
+	color: #333333;
+	padding-left: 22px;
+}
+@media (max-width: 991px) {
+	.award-gallery {
+		grid-template-columns: 1fr;
+	}
 }
 /* end publications */
 
