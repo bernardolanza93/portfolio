@@ -46,9 +46,31 @@ $(function(){
 
     /* wow
     -----------------*/
-    // Disabled by request: keep only intro typing + button interactions.
+	    // Disabled by request: keep only intro typing + button interactions.
 
-});
+	    /* research accordion: single open item with smooth transition */
+	    $('.research-panel').hide();
+	    $('.research-toggle').on('click', function () {
+	        var $toggle = $(this);
+	        var targetSelector = $toggle.attr('data-target');
+	        var $item = $toggle.closest('.research-item');
+	        var $panel = $(targetSelector);
+	        var isOpen = $item.hasClass('is-open');
+
+	        $('.research-item').removeClass('is-open');
+	        $('.research-toggle').attr('aria-expanded', 'false');
+	        $('.research-panel').not($panel).stop(true, true).slideUp(220);
+
+	        if (!isOpen) {
+	            $item.addClass('is-open');
+	            $toggle.attr('aria-expanded', 'true');
+	            $panel.stop(true, true).slideDown(260);
+	        } else {
+	            $panel.stop(true, true).slideUp(220);
+	        }
+	    });
+
+	});
 
 /* start preloader */
 $(window).load(function(){
