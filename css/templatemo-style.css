@@ -396,6 +396,8 @@ header .social-icon li a
 	height: auto;
 	font-size: 16px;
 	color: #D3D3D3;
+	max-width: 640px;
+	margin-right: auto;
 }
 .home-cta {
 	margin-top: 34px;
@@ -421,6 +423,9 @@ header .social-icon li a
 	border-color: #0789a3 !important;
 	color: #ffffff !important;
 	box-shadow: 0 0 0 4px rgba(9, 169, 200, 0.2) !important;
+}
+@media (max-width: 991px) {
+	.element { max-width: 100%; }
 }
 /* end home */
 
@@ -965,10 +970,12 @@ html body a::-moz-focus-inner {
 .award-event {
 	font-weight: 600;
 	margin-bottom: 6px;
+	color: #000000;
 }
 .award-paper {
 	font-style: normal;
 	margin-bottom: 0;
+	color: #000000;
 }
 .award-gallery {
 	display: grid;
