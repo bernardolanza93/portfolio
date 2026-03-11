@@ -160,9 +160,9 @@
                 <div class="col-md-12">
                     <h2>SHORT BIO</h2>
                     <h2 style="line-height:15px;"><small>
-                        Mechatronics engineer with a Ph.D. focused on optical measurement systems for precision agriculture (UniBS, 2025). My research combined RGB-D sensing, SLAM-based 3D reconstruction, and deep learning for in-field crop monitoring — validated metrologically on real vineyards and orchards in Italy and Spain.
-                        I've worked across the full pipeline: sensor selection and calibration, embedded system integration (Jetson Nano/Orin), algorithm development in Python/C++, and field deployment. Previously contributed to backend development and predictive maintenance at Pink Peak.
-                        I co-supervised M.Sc. theses, taught university lab courses in computer vision and metrology, and reviewed for IEEE MetroAgriFor and BioRob.
+                        Mechatronics engineer with a Ph.D. in optical measurement systems for precision agriculture (UniBS, 2025). My doctoral research focused on 3D reconstruction and in-field crop monitoring, combining depth sensing, SLAM, and deep learning, validated on real vineyards and orchards in Italy and Spain.
+                        I work across the full pipeline: from sensor calibration and embedded integration to algorithm development and field deployment. More recently I contributed to backend development and predictive maintenance at Pink Peak.
+                        Alongside research, I co-supervised M.Sc. theses, taught lab courses in computer vision and metrology at UniBS, and reviewed for IEEE MetroAgriFor and BioRob.
                     </small></h2>
                 </div>
             </div>
@@ -229,8 +229,8 @@
                         <h2 style="margin-top: 120px;"><span>CERTIFICATIONS</span></h2>
                         <div class="element1">
                             <div style="margin-bottom:5px;font-size: 10px;"><i>Jan 31, 2025</i></div>
-                            <div class="wow fadeIn">PH.D. IN ROBOTICS</div>
-                            <small><div class="wow fadeIn">Optical-based measurement for plant health monitoring and yield estimation.</div></small>
+                            <div class="wow fadeIn">PH.D. IN MECHATRONICS</div>
+                            <small><div class="wow fadeIn">Doctoral program in Mechanical and Industrial Engineering | Optical-based measurement for plant health monitoring and yield estimation.</div></small>
                             <small><div class="wow fadeIn">Laboratorio di Misure Meccaniche e Termiche - Università degli studi di Brescia</div></small>
 
                         </div>
@@ -536,6 +536,64 @@
                     </div>
 
                     <div class="research-item">
+                        <button class="research-toggle" type="button" data-target="#research-depth-flow" aria-expanded="false">
+                            <span class="research-toggle-thumb">
+                                <img loading="lazy" src="images/setup_o.png" alt="Depth from optical flow acquisition setup">
+                            </span>
+                            <span class="research-toggle-body">
+                                <span class="research-toggle-title">Depth from Optical Flow</span>
+                                <span class="research-toggle-oneliner">Monocular depth estimation with metrological uncertainty for agricultural scenarios.</span>
+                                <span class="tech-tags">
+                                    <span class="tech-tag">Optical Flow</span>
+                                    <span class="tech-tag">Computer Vision</span>
+                                    <span class="tech-tag">Metrology</span>
+                                    <span class="tech-tag">Python</span>
+                                    <span class="tech-tag">+</span>
+                                </span>
+                            </span>
+                            <span class="research-toggle-icon" aria-hidden="true">+</span>
+                        </button>
+                        <div class="research-panel" id="research-depth-flow">
+                            <div class="research-card">
+                                <h4>Monocular Depth Estimation from Optical Flow with Uncertainty Analysis</h4>
+                                <p><b>Problem:</b> Low-cost depth estimation from a single moving camera is noisy and lacks formal measurement uncertainty &mdash; a gap for agricultural end-users who need reliable readings without expensive LiDAR or stereo hardware.</p>
+                                <p><b>Method:</b> Simplified optical-flow model relating image-plane pixel speed to real-world depth via a single calibration parameter K. Validated in laboratory with a UR10e robot at five speeds (0.25&ndash;0.97 m/s), four camera-target distances, and five ArUco markers at different depths. Monte Carlo uncertainty propagation with 10,000 synthetic realizations per data point. Window-based moving average filter (effective 20 fps from 60 fps) to reduce noise.</p>
+                                <p><b>Result:</b> Best-case depth uncertainty of 4 cm (filtered, 0.50 m/s) and 7 cm (filtered, 0.75 m/s). Image speeds above 500&ndash;800 px/s keep uncertainty below 20 cm. Two practical examples provided for end-users to select camera and vehicle speed. Code publicly released on GitHub.</p>
+
+                                <div class="tech-tags research-skills">
+                                    <span class="tech-tag">Python</span>
+                                    <span class="tech-tag">OpenCV</span>
+                                    <span class="tech-tag">Optical Flow</span>
+                                    <span class="tech-tag">ArUco Markers</span>
+                                    <span class="tech-tag">SciPy</span>
+                                    <span class="tech-tag">Metrology</span>
+                                    <span class="tech-tag">Monte Carlo</span>
+                                    <span class="tech-tag">GoPro</span>
+                                    <span class="tech-tag">UR10e</span>
+                                </div>
+
+                                <div class="research-gallery">
+                                    <figure>
+                                        <img loading="lazy" src="images/setup_o.png" alt="Experimental setup with UR10e robot, GoPro, and ArUco marker target">
+                                        <figcaption>Experimental setup: UR10e robot with GoPro Hero 11, custom target with ArUco markers at 4 distances.</figcaption>
+                                    </figure>
+                                    <figure>
+                                        <img loading="lazy" src="images/modello_o.png" alt="Pinhole projection model for optical-flow depth estimation">
+                                        <figcaption>Pinhole projection model: depth Z estimated from pixel displacement δy, focal length f, and known camera speed.</figcaption>
+                                    </figure>
+                                    <figure>
+                                        <img loading="lazy" src="images/curva.png" alt="Model validation with analytical and experimental depth curves">
+                                        <figcaption>Model validation at 0.75 m/s: analytical (black) vs experimental (red) model on filtered data.</figcaption>
+                                    </figure>
+                                </div>
+
+                                <p><a href="https://doi.org/10.3390/s25123790" target="_blank" rel="noopener noreferrer"><b>Link to Publication</b></a></p>
+                                <p><a href="https://github.com/bernardolanza93/DepthFromOpticalFlow.git" target="_blank" rel="noopener noreferrer"><b>GitHub Repository: DepthFromOpticalFlow</b></a></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="research-item">
                         <button class="research-toggle" type="button" data-target="#research-cropweed" aria-expanded="false">
                             <span class="research-toggle-thumb">
                                 <img loading="lazy" src="animations/cavolo.gif" alt="Crop and weed segmentation">
@@ -680,7 +738,7 @@
 
                     <br>
                     <h4>Thesis Supervision</h4>
-                    <p>Co-supervised N M.Sc. and N B.Sc. theses in computer vision and industrial metrology.</p>
+                    <p>Co-supervised M.Sc. and B.Sc. theses in computer vision and industrial metrology.</p>
 
                     <br>
                     <h4>Peer Review</h4>
@@ -734,6 +792,15 @@
 
                         <h3 class="publications-subtitle">Relevant Publications</h3>
                         <ul class="publication-list">
+                        <li><strong>Depth from 2D Images: Development and Metrological Evaluation of System Uncertainty Applied to Agricultural Scenarios</strong><br>
+                            Lanza, B.; Nuzzi, C.; Pasinetti, S.<br>
+                            <i>Sensors 2025, MDPI</i>
+                            <p><a href="https://doi.org/10.3390/s25123790" target="_blank" rel="noopener noreferrer"><b>Link to publication</b></a></p>
+                            <p><a href="https://github.com/bernardolanza93/DepthFromOpticalFlow.git" target="_blank" rel="noopener noreferrer"><b>GitHub Repo</b></a></p>
+
+                        <br>
+                        </li>
+
                         <li><strong>A Stride Toward Wine Yield Estimation from Images: Metrological Validation of Grape Berry Number, Radius, and Volume Estimation</strong><br>
                             Lanza, B.; Botturi, D.; Gnutti, A.; Lancini, M.; Nuzzi, C.; Pasinetti, S<br>
                             <i>Sensors 2024 MDPI</i>
